@@ -1,0 +1,149 @@
+/* star container */
+.container {
+    width: 700px;
+    margin:auto;
+}
+/* end container */
+/* star header */
+.header {
+    height: 170px;
+} 
+.loeb {
+    width: 50%;
+    float: left;
+}
+.loeb .h2 {
+    text-transform: uppercase;
+    overflow: hidden;
+    font-size: 40px;
+    width: 250px;
+    font-weight: 900;
+}
+.loeb p {
+    text-transform: uppercase;
+    background-color:#211C30;
+    width: 220px;
+    padding: 15px;
+    color:#FFE546;
+    text-align: center;
+}
+.image img {
+    width: 120px;
+    float: right;
+}
+/* end header */
+/* star about me */
+.me {
+    width: 250px;
+    letter-spacing: 10px;
+    overflow: hidden;
+}
+.about-me {
+    width: 50%;
+    float: left;
+}
+.height {
+    width: 50%;
+    float: left;
+}
+.yes {
+    width: 40%;
+    float: right;
+}
+.margin,
+.brown {
+    margin-bottom: 0%;
+}
+.hair {
+    margin-top: 0%;
+}
+.royal {
+    text-transform: uppercase;
+    font-size: 30px;
+    width: 250px;
+    letter-spacing: 3px;
+}
+.skills {
+    width: 250px;
+}
+.skills h2 {
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    letter-spacing: 5px;
+}
+.singing,
+.couners,
+.ational,
+.accents,
+.british,
+.baritone {
+    background-color: #211C30;
+    height: 5px;
+    border-radius: 5px;
+}
+.singing-baritone {
+    position: relative;
+}
+.baritone {
+    background-color: #FFE546;
+    margin: 0;
+    position: absolute;
+    top: 0%;
+    left: 0;
+    width: 85%;
+}
+.couners-ational {
+    position: relative;   
+}
+.ational {
+    background-color: #FFE546;
+    margin: 0;
+    position: absolute;
+    top: 0%;
+    left: 0;
+    width: 60%;
+}
+.accents-british {
+    position: relative;   
+}
+.british {
+    background-color: #FFE546;
+    margin: 0;
+    position: absolute;
+    top: 0%;
+    left: 0;
+    width: 80%;  
+}
+/* end about me */
+/* star Theater */
+.Theater {
+    background-color: #211C30;
+    color:white;
+    padding: 20px;
+}
+.Theater .color {
+    color: #FFD044;
+    width: 200px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+.theater {
+    width: 250px;
+    color: #FFD044;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+.Theater {
+    width: 40%;
+    float: right;
+}
+.alhadi {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #FFD044;
+}
+.span {
+    margin-top: 500px;
+}
+/* end Theater */
